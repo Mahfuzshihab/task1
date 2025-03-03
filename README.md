@@ -7,4 +7,4 @@
 5. Make Changes on The Local Repo and Push into Remote Repo
 6. Make Changes to remote Repo
 7. Make Changes on The Local Repo and Push into Remote Repo
-8. Solve Merge Conflict
+8. Solve Merge 
